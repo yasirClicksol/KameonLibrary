@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KameonLib</string>
+    <string name="offline_msg">Please check your internet connection</string>
+    <string name="fetching_data">Fetching Data</string>
+    <string name="search_lib">Search in library</string>
+    <string name="upload_file">Upload File</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="some_went_wrong">Something went wrong</string>
+    <string name="created_by">Created by</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="tags">Tags</string>
+    <string name="my_tags">MY TAG</string>
+    <string name="text_preview">No preview available</string>
+    <string name="uploading">Uploading data</string>
+    <string name="delete">Deleting item</string>
+    <string name="delete_h">Delete</string>
+    <string name="are_you_sure">Are you sure you want to delete item?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="upload">Uploaded</string>
+    <string name="view_details">View Details</string>
+</resources>

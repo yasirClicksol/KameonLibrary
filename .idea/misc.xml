@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/bg_alert_dlg.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_back.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_file.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_folder.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_gruppe_473.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_more.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_pfad_1000.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_pfad_3270.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_pfad_3307.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_upload_file.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/ic_upload_image.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/oval_shape.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/rect_round_grey.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/text_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/drawable/white_rect.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/activity_detail_preview.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/activity_preview.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/activity_view_image.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/dlg_alert_rename.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/li_blob_layout.xml" value="0.536" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/layout/li_storage_folder.xml" value="0.536" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/menu/omfm_content_options.xml" value="0.2421875" />
+        <entry key="..\:/Users/786/AndroidStudioProjects/KameonLib/app/src/main/res/menu/popup_menu.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.6" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

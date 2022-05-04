@@ -1,0 +1,18 @@
+<resources>
+
+
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+    <style name="CustomDialogWithMargin" parent="Theme.AppCompat.Light.Dialog">
+        <!--<item name="android:windowAnimationStyle">@style/CustomDialogAnimation</item>-->
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+
+    </style>
+    <style name="CustomizeDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!--<item name="android:windowAnimationStyle">@style/CustomDialogAnimation</item>-->
+        <item name="android:windowMinWidthMajor">95%</item>
+        <item name="android:windowMinWidthMinor">95%</item>
+    </style>
+</resources>
